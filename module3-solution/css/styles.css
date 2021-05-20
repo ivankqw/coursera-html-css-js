@@ -1,0 +1,43 @@
+.navbar {
+    border: 1px solid black;
+    background-color: grey;
+}
+
+#navbar-brand {
+    color: black;
+}
+
+#menu {
+    border-color: black !important;
+}
+
+span.icon-bar {
+    background-color: black !important; 
+}
+
+#nav-list {
+    text-align: center;
+    background-color: white;
+}
+
+div.dropdown-divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+#menu-header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#p-title {
+    font-weight:bold;
+}
+
+#big-text {
+    background-color: grey;
+    width: 90%;
+    margin: 1% 5%;
+}
